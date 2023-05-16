@@ -1,0 +1,8 @@
+D:\Programming\C#\Pb_5\Pb_5\bin\Debug\Pb_5.exe.config
+D:\Programming\C#\Pb_5\Pb_5\bin\Debug\Pb_5.exe
+D:\Programming\C#\Pb_5\Pb_5\bin\Debug\Pb_5.pdb
+D:\Programming\C#\Pb_5\Pb_5\obj\Debug\Pb_5.csproj.AssemblyReference.cache
+D:\Programming\C#\Pb_5\Pb_5\obj\Debug\Pb_5.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Pb_5\Pb_5\obj\Debug\Pb_5.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Pb_5\Pb_5\obj\Debug\Pb_5.exe
+D:\Programming\C#\Pb_5\Pb_5\obj\Debug\Pb_5.pdb
